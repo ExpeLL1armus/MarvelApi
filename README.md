@@ -17,7 +17,11 @@
 **Screenshots (не все):**
 
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/f20af53e-126e-4868-bb0a-ea87e3415f9e)
+
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/779b472f-4ef5-4f5e-8101-d20e812f326a)
+
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/51261947-b245-4813-8916-5575afdde037)
+
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/b5e183a9-e965-43a3-80d1-d82f8e6114c3)
+
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/51fcd070-218d-4bb2-88ad-3f00eed9e63e)
