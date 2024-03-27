@@ -15,6 +15,7 @@
 + Изучил и применил на практике знания про FSM
 
 **Screenshots (не все):**
+
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/f20af53e-126e-4868-bb0a-ea87e3415f9e)
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/779b472f-4ef5-4f5e-8101-d20e812f326a)
 ![image](https://github.com/ExpeLL1armus/MarvelApi/assets/89298315/51261947-b245-4813-8916-5575afdde037)
